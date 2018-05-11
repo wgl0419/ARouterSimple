@@ -21,17 +21,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity
-            android:name="com.example.anothertest.AnotherActivity"
-            android:screenOrientation="portrait"></activity>
 
-        <activity
-            android:name="com.example.othertest.OtherActivity"
-            android:screenOrientation="portrait"></activity>
-        <activity
-            android:name=".TestActivity1"
-            android:screenOrientation="portrait"></activity>
-        <activity android:name="com.example.firsttest.FirstTestActivity"></activity>
 
     </application>
 

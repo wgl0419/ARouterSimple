@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ArouterTest.iml" filepath="$PROJECT_DIR$/ArouterTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArouterSimple.iml" filepath="$PROJECT_DIR$/ArouterSimple.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/firsttest/firsttest.iml" filepath="$PROJECT_DIR$/firsttest/firsttest.iml" />
       <module fileurl="file://$PROJECT_DIR$/mybase/mybase.iml" filepath="$PROJECT_DIR$/mybase/mybase.iml" />

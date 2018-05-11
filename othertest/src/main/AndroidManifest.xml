@@ -1,9 +1,12 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.othertest" >
+    package="com.example.othertest">
 
-   <application>
+    <application>
+
+        <activity
+            android:name=".OtherActivity"
+            android:screenOrientation="portrait"></activity>
 
 
-
-   </application>
-   </manifest>
+    </application>
+</manifest>

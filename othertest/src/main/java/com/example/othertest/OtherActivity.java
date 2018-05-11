@@ -46,7 +46,7 @@ public class OtherActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
 
-                ARouter.getInstance().build("/first/firstTestActivity")
+                ARouter.getInstance().build("/main/main")
                         .withString("key3","other")
                         .navigation();
                 finish();
